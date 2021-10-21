@@ -5,7 +5,7 @@ This repository is used only for features requests.
 That's the way we found to gather and organize requests by users, SREs, DevOps Engineers and etc... All issues are 
 automagically created in the public project.
 
-[Check out the project](https://github.com/aws/containers-roadmap/projects/1)
+[Check out the project](https://github.com/production-ready-toolkit/requests/projects/1)
 
 ## FAQs
 
